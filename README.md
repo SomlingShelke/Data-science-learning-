@@ -7,3 +7,4 @@ so i started the to do setup over the vs code  with the help of conda command
   1> setting the environment
      command =create conda venv/ python=3.1.2
      
+r
